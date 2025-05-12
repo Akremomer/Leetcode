@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Akremomer/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akremomer/Leetcode/tree/master/0013-roman-to-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akremomer/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akremomer/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Akremomer/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
