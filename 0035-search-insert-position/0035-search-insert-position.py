@@ -8,13 +8,13 @@ class Solution:
         while l <= r:
             mid = (l + r) // 2
             if nums[mid] < target:
-                l = mid + 1  # Move left pointer to mid + 1
+                l = mid + 1  
             elif target == nums[mid]:
-                return mid  # Target found
+                return mid  
             else:
-                r = mid - 1  # Move right pointer to mid - 1
+                r = mid - 1  
         
-        return l  # Return the insertion position
+        return l  
 
          
 
