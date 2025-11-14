@@ -3,7 +3,7 @@ class Solution(object):
         dic={}
         for i in range(len(nums)):
           diff=target-nums[i]
-          if diff in dic:
+         if diff in dic:
             return [dic[diff],i]
 
           else:
